@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 咸淳臨安志
-#+DATE: 2015-08-24 22:39:36.660821
+#+DATE: 2015-08-24 22:39:36.630886
 #+PROPERTY: ID KR2k0022
 #+PROPERTY: BASEEDITION WYG    
-#+PROPERTY: JUAN 卷九十九
+#+PROPERTY: JUAN 卷九十八
 <pb:KR2k0022_WYG_097-1a>¶
 欽定四庫全書¶
-　咸淳臨安志巻九十九　　宋　潜説友　撰¶
+　咸淳臨安志卷九十八　　宋　潜説友　撰¶
 (闕/)¶
 　¶
 　¶
@@ -21,4 +21,4 @@
 　¶
 　¶
 　¶
-　咸淳臨安志卷九十九¶
+　咸淳臨安志卷九十八¶
